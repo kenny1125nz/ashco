@@ -1,0 +1,3 @@
+ashd showing this even if there is no child process:
+
+waiting 30s for child processes to exit...

@@ -1,0 +1,1 @@
+telemetry seems not covering in repl activities
